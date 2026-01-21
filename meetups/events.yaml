@@ -1,17 +1,15 @@
 ## The item at the top will be displayed in the Next Event section
-- title: Everyday Git Part 2
-  description: Some <b>more</b> tips and tricks for using git.
-  location: Some remote location
-  presenter: Linus Torvalds
-  date:  2025-02-11
-  time:  TBD
-  filename: example-event.ics
-  path: "https://eventbrite.com"
-- title: Everyday Git
-  description: Some tips and tricks for using git.
-  location: Some remote location
-  presenter: Linus Torvalds
-  date:  2025-02-10
-  time:  TBD
-  filename: example-event.ics
-  path: "https://eventbrite.com"
+- title: TBD
+  description: TBD
+  location: Bucheliuszaal 6.18, [UB USP](https://www.uu.nl/universiteitsbibliotheek-utrecht-science-park)
+  presenter: Raoul Schram
+  date:  2026-02-12
+  time:  15:00-17:00
+  path: "https://bookings.uu.nl/calendar/workshops/programming1"
+- title: tbd
+  description: tbd
+  location: Bucheliuszaal 6.18, [UB USP](https://www.uu.nl/universiteitsbibliotheek-utrecht-science-park)
+  presenter: Jelle Treep
+  date:  2026-03-05
+  time:  15:00-17:00
+  path: "https://bookings.uu.nl/event/4457883"
