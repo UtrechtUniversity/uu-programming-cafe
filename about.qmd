@@ -2,6 +2,9 @@
 title: about
 ---
 
-We are a programming cafe based in some university, part of a larger [network of programming cafes](https://github.com/code-cafes-nl).
+During this informal meet-up, we will share knowledge about programming through short presentations, work on programming projects, and help each other with challenges in working with code and data. 
 
-Join us by...
+## What to expect 
+During the Programming Café, you can work on your own project and share knowledge in a community setting. You can also bring your programming questions, bugs, and problems to resolve or discuss with members of RDM Support and researchers attending the café.  
+
+Furthermore, each Programming Café will have a special theme. This is typically a short presentation or demonstration of (maximum) half an hour. We are always looking for suggestions on themes and people who want to present something. Don’t hesitate to send an email to [info.rdm@uu.nl](mailto:info.rdm@uu.nl) if you want to provide a suggestion or give a presentation! 
