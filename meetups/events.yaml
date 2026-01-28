@@ -1,15 +1,15 @@
 ## The item at the top will be displayed in the Next Event section
-- title: TBD
-  description: TBD
+- title: 'Marimo: A fresh take on Python Notebooks'
+  description: 'Marimo is a new, modern notebook environment designed to make your work reproducible by design. Unlike traditional notebooks, its reactive execution model keeps everything in sync, so you never have to wonder whether your results match your code. Marimo plays nicely with Git, making version control painless. It also lets you add sliders and other interactive UI elements to visually explore your data. In this session of the Programming Café, we’ll get hands-on with Marimo: exploring its features and converting existing Jupyter notebooks into Marimo notebooks. Bring your own notebooks and leave with cleaner, more reproducible, and more interactive workflows ☕🐍'
   location: Bucheliuszaal 6.18, [UB USP](https://www.uu.nl/universiteitsbibliotheek-utrecht-science-park)
   presenter: Raoul Schram
   date:  2026-02-12
   time:  15:00-17:00
   path: "https://bookings.uu.nl/calendar/workshops/programming1"
-- title: tbd
-  description: tbd
+- title: Debugging like a pro
+  description: In this session of the Programming Café, we'll get hands-on with the debugging.
   location: Bucheliuszaal 6.18, [UB USP](https://www.uu.nl/universiteitsbibliotheek-utrecht-science-park)
-  presenter: Jelle Treep
+  presenter: Julian Gonggrijp
   date:  2026-03-05
   time:  15:00-17:00
   path: "https://bookings.uu.nl/event/4457883"
